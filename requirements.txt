@@ -3,3 +3,4 @@ This is chat Apllication
 Emoji 
 Type optin 
 vibrant
+Dark Mode
